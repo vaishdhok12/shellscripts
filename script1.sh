@@ -7,4 +7,6 @@ echo "Wife: I want to travel"
 echo "Wife: I like singin"
 echo "New Update"
 echo "Good Morning"
+echo "This is my First Git Practicle"
 echo "This is my second git practicle"
+
